@@ -1,0 +1,14 @@
+{
+  "name": "node-googlecal",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ShaunLWM/node-googlecal",
+  "author": "ShaunLWM",
+  "license": "MIT",
+  "keywords": [
+    "googlecal",
+    "google-calendar",
+    "googlecalendar",
+    "google calendar"
+  ]
+}
