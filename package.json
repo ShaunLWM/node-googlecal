@@ -10,5 +10,8 @@
     "google-calendar",
     "googlecalendar",
     "google calendar"
-  ]
+  ],
+  "scripts": {
+    "test": "mocha"
+  }
 }
