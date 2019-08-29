@@ -74,3 +74,7 @@ Type: `string`<br>
 Default: ``
 
 Ending date for Calendar event. Do take note of the format (eg: 20190808T170000Z)
+
+### Returns
+Type: `Object`<br>
+Key: `error` (if any) & `url` if everything is okay
